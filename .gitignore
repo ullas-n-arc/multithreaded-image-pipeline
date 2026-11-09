@@ -1,0 +1,10 @@
+/bin/
+/build/
+/examples/
+/.kilo/
+__pycache__/
+*.pyc
+*.tmp.*
+/benchmarks/results.csv
+/benchmarks/results.environment.json
+GUIDE.md
